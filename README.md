@@ -223,7 +223,8 @@ print(result)
     },
     "landareakm2": 1565.601892,
     "areakm2": 1596.319707
-  }
+  },
+  "code": 200
 }
 ```
 
